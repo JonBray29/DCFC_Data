@@ -1,47 +1,47 @@
-Div,Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,Referee,HS,AS,HST,AST,HF,AF,HC,AC,HY,AY,HR,AR
-E1,06/08/2011,Derby,Birmingham,2,1,H,2,1,H,N Swarbrick,7,20,4,8,13,12,4,6,3,1,0,0
-E1,13/08/2011,Watford,Derby,0,1,A,0,0,D,D Deadman,18,4,11,3,9,10,12,4,3,5,0,0
-E1,17/08/2011,Blackpool,Derby,0,1,A,0,0,D,M Haywood,16,8,6,3,10,8,6,1,1,1,0,0
-E1,20/08/2011,Derby,Doncaster,3,0,H,1,0,H,O Langford,10,12,6,4,8,5,2,7,0,1,0,0
-E1,27/08/2011,Derby,Burnley,1,2,A,0,0,D,A Haines,21,22,12,12,13,10,10,4,1,1,0,0
-E1,10/09/2011,Coventry,Derby,2,0,H,0,0,D,C Foy,11,13,8,7,12,10,7,8,0,0,0,0
-E1,17/09/2011,Nott'm Forest,Derby,1,2,A,1,1,D,S Mathieson,11,5,5,3,11,14,12,3,3,1,0,1
-E1,24/09/2011,Derby,Millwall,3,0,H,2,0,H,C Webster,12,15,5,7,9,12,4,5,2,2,0,0
-E1,27/09/2011,Derby,Barnsley,1,1,D,0,1,A,N Miller,26,14,14,8,6,8,13,3,1,1,0,0
-E1,01/10/2011,Leicester,Derby,4,0,H,2,0,H,H Webb,20,11,13,4,12,11,4,6,1,2,0,0
-E1,15/10/2011,Derby,Southampton,1,1,D,1,0,H,M Brown,11,15,7,9,10,11,6,5,1,4,0,0
-E1,18/10/2011,Reading,Derby,2,2,D,0,0,D,R East,10,4,6,1,12,10,9,4,1,2,0,0
-E1,22/10/2011,Middlesbrough,Derby,2,0,H,1,0,H,C Boyeson,21,12,14,5,11,15,9,8,2,1,0,0
-E1,29/10/2011,Derby,Portsmouth,3,1,H,3,0,H,C Pawson,16,9,13,3,12,12,7,7,1,2,0,0
-E1,02/11/2011,Derby,Cardiff,0,3,A,0,1,A,E Ilderton,11,12,4,7,7,5,11,6,8,6,0,0
-E1,05/11/2011,Peterboro,Derby,3,2,H,1,2,A,I Williamson,18,13,7,8,7,13,6,6,1,3,0,0
-E1,19/11/2011,Derby,Hull,0,2,A,0,2,A,D Deadman,5,13,4,6,7,13,9,2,1,5,0,0
-E1,26/11/2011,West Ham,Derby,3,1,H,1,1,D,C Webster,10,3,5,2,13,9,8,4,1,1,0,0
-E1,29/11/2011,Derby,Brighton,0,1,A,0,1,A,G Salisbury,14,9,7,4,15,11,6,7,2,3,0,0
-E1,02/12/2011,Crystal Palace,Derby,1,1,D,1,0,H,A D'Urso,9,18,6,10,8,9,4,8,1,1,0,0
-E1,10/12/2011,Derby,Bristol City,2,1,H,0,0,D,R Madley,9,12,4,5,15,14,0,6,1,2,0,0
-E1,17/12/2011,Ipswich,Derby,1,0,H,0,0,D,D Webb,11,11,6,6,9,9,6,5,0,2,0,0
-E1,26/12/2011,Derby,Leeds,1,0,H,0,0,D,A Bates,12,15,5,9,10,15,3,11,1,2,0,0
-E1,31/12/2011,Derby,West Ham,2,1,H,2,1,H,J Moss,11,14,4,6,9,8,5,6,0,5,0,0
-E1,02/01/2012,Hull,Derby,0,1,A,0,0,D,P Gibbs,16,4,13,3,14,8,11,0,2,2,0,0
-E1,14/01/2012,Derby,Coventry,1,0,H,0,0,D,R East,18,8,12,3,7,13,10,4,0,2,0,0
-E1,21/01/2012,Burnley,Derby,0,0,D,0,0,D,L Probert,15,9,4,5,6,9,5,11,2,2,0,0
-E1,31/01/2012,Barnsley,Derby,3,2,H,3,0,H,A Woolmer,7,8,5,4,16,9,9,3,1,0,0,0
-E1,11/02/2012,Millwall,Derby,0,0,D,0,0,D,O Langford,11,4,1,2,10,10,9,4,2,3,0,0
-E1,14/02/2012,Derby,Reading,0,1,A,0,0,D,G Eltringham,11,8,7,5,13,13,3,8,2,2,0,0
-E1,18/02/2012,Southampton,Derby,4,0,H,1,0,H,G Scott,11,4,7,2,6,8,6,8,1,1,0,0
-E1,23/02/2012,Derby,Leicester,0,1,A,0,1,A,S Hooper,8,16,6,10,10,9,8,6,1,2,0,0
-E1,03/03/2012,Birmingham,Derby,2,2,D,1,0,H,P Tierney,14,7,6,3,9,12,10,3,3,0,0,0
-E1,06/03/2012,Derby,Blackpool,2,1,H,0,1,A,C Boyeson,13,13,8,9,9,16,4,8,1,1,0,0
-E1,10/03/2012,Derby,Watford,1,2,A,1,2,A,S Mathieson,9,7,5,3,10,20,7,3,1,2,0,0
-E1,13/03/2012,Derby,Nott'm Forest,1,0,H,0,0,D,A D'Urso,12,9,5,2,13,17,11,3,2,4,0,1
-E1,17/03/2012,Doncaster,Derby,1,2,A,0,1,A,D Coote,8,8,4,8,12,13,1,11,1,0,0,0
-E1,20/03/2012,Brighton,Derby,2,0,H,1,0,H,D Sheldrake,9,11,8,4,9,18,8,7,1,3,0,0
-E1,24/03/2012,Derby,Crystal Palace,3,2,H,2,0,H,M Russell,10,9,4,6,8,7,4,3,1,1,0,0
-E1,31/03/2012,Bristol City,Derby,1,1,D,0,1,A,G Ward,7,10,3,4,12,12,3,4,1,1,0,0
-E1,07/04/2012,Derby,Ipswich,0,0,D,0,0,D,M Haywood,10,16,4,8,9,6,14,8,1,0,0,0
-E1,09/04/2012,Leeds,Derby,0,2,A,0,1,A,O Langford,10,16,6,8,12,16,1,9,3,1,1,0
-E1,14/04/2012,Derby,Middlesbrough,0,1,A,0,0,D,C Pawson,16,22,8,9,14,11,5,6,1,1,0,0
-E1,17/04/2012,Cardiff,Derby,2,0,H,1,0,H,L Probert,9,14,6,9,13,5,6,11,1,1,0,0
-E1,21/04/2012,Portsmouth,Derby,1,2,A,0,1,A,M Naylor,16,10,9,6,16,16,3,7,3,1,0,0
-E1,28/04/2012,Derby,Peterboro,1,1,D,1,0,H,R East,23,17,13,9,12,9,10,5,0,1,0,0
+Div,Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,Referee,HS,AS,HST,AST,HF,AF,HC,AC,HY,AY,HR,AR,Manager
+E1,2011-08-06,Derby,Birmingham,2,1,H,2,1,H,N Swarbrick,7,20,4,8,13,12,4,6,3,1,0,0,Nigel Clough
+E1,2011-08-13,Watford,Derby,0,1,A,0,0,D,D Deadman,18,4,11,3,9,10,12,4,3,5,0,0,Nigel Clough
+E1,2011-08-17,Blackpool,Derby,0,1,A,0,0,D,M Haywood,16,8,6,3,10,8,6,1,1,1,0,0,Nigel Clough
+E1,2011-08-20,Derby,Doncaster,3,0,H,1,0,H,O Langford,10,12,6,4,8,5,2,7,0,1,0,0,Nigel Clough
+E1,2011-08-27,Derby,Burnley,1,2,A,0,0,D,A Haines,21,22,12,12,13,10,10,4,1,1,0,0,Nigel Clough
+E1,2011-09-10,Coventry,Derby,2,0,H,0,0,D,C Foy,11,13,8,7,12,10,7,8,0,0,0,0,Nigel Clough
+E1,2011-09-17,Nott'm Forest,Derby,1,2,A,1,1,D,S Mathieson,11,5,5,3,11,14,12,3,3,1,0,1,Nigel Clough
+E1,2011-09-24,Derby,Millwall,3,0,H,2,0,H,C Webster,12,15,5,7,9,12,4,5,2,2,0,0,Nigel Clough
+E1,2011-09-27,Derby,Barnsley,1,1,D,0,1,A,N Miller,26,14,14,8,6,8,13,3,1,1,0,0,Nigel Clough
+E1,2011-10-01,Leicester,Derby,4,0,H,2,0,H,H Webb,20,11,13,4,12,11,4,6,1,2,0,0,Nigel Clough
+E1,2011-10-15,Derby,Southampton,1,1,D,1,0,H,M Brown,11,15,7,9,10,11,6,5,1,4,0,0,Nigel Clough
+E1,2011-10-18,Reading,Derby,2,2,D,0,0,D,R East,10,4,6,1,12,10,9,4,1,2,0,0,Nigel Clough
+E1,2011-10-22,Middlesbrough,Derby,2,0,H,1,0,H,C Boyeson,21,12,14,5,11,15,9,8,2,1,0,0,Nigel Clough
+E1,2011-10-29,Derby,Portsmouth,3,1,H,3,0,H,C Pawson,16,9,13,3,12,12,7,7,1,2,0,0,Nigel Clough
+E1,2011-11-02,Derby,Cardiff,0,3,A,0,1,A,E Ilderton,11,12,4,7,7,5,11,6,8,6,0,0,Nigel Clough
+E1,2011-11-05,Peterboro,Derby,3,2,H,1,2,A,I Williamson,18,13,7,8,7,13,6,6,1,3,0,0,Nigel Clough
+E1,2011-11-19,Derby,Hull,0,2,A,0,2,A,D Deadman,5,13,4,6,7,13,9,2,1,5,0,0,Nigel Clough
+E1,2011-11-26,West Ham,Derby,3,1,H,1,1,D,C Webster,10,3,5,2,13,9,8,4,1,1,0,0,Nigel Clough
+E1,2011-11-29,Derby,Brighton,0,1,A,0,1,A,G Salisbury,14,9,7,4,15,11,6,7,2,3,0,0,Nigel Clough
+E1,2011-12-02,Crystal Palace,Derby,1,1,D,1,0,H,A D'Urso,9,18,6,10,8,9,4,8,1,1,0,0,Nigel Clough
+E1,2011-12-10,Derby,Bristol City,2,1,H,0,0,D,R Madley,9,12,4,5,15,14,0,6,1,2,0,0,Nigel Clough
+E1,2011-12-17,Ipswich,Derby,1,0,H,0,0,D,D Webb,11,11,6,6,9,9,6,5,0,2,0,0,Nigel Clough
+E1,2011-12-26,Derby,Leeds,1,0,H,0,0,D,A Bates,12,15,5,9,10,15,3,11,1,2,0,0,Nigel Clough
+E1,2011-12-31,Derby,West Ham,2,1,H,2,1,H,J Moss,11,14,4,6,9,8,5,6,0,5,0,0,Nigel Clough
+E1,2012-01-02,Hull,Derby,0,1,A,0,0,D,P Gibbs,16,4,13,3,14,8,11,0,2,2,0,0,Nigel Clough
+E1,2012-01-14,Derby,Coventry,1,0,H,0,0,D,R East,18,8,12,3,7,13,10,4,0,2,0,0,Nigel Clough
+E1,2012-01-21,Burnley,Derby,0,0,D,0,0,D,L Probert,15,9,4,5,6,9,5,11,2,2,0,0,Nigel Clough
+E1,2012-01-31,Barnsley,Derby,3,2,H,3,0,H,A Woolmer,7,8,5,4,16,9,9,3,1,0,0,0,Nigel Clough
+E1,2012-02-11,Millwall,Derby,0,0,D,0,0,D,O Langford,11,4,1,2,10,10,9,4,2,3,0,0,Nigel Clough
+E1,2012-02-14,Derby,Reading,0,1,A,0,0,D,G Eltringham,11,8,7,5,13,13,3,8,2,2,0,0,Nigel Clough
+E1,2012-02-18,Southampton,Derby,4,0,H,1,0,H,G Scott,11,4,7,2,6,8,6,8,1,1,0,0,Nigel Clough
+E1,2012-02-23,Derby,Leicester,0,1,A,0,1,A,S Hooper,8,16,6,10,10,9,8,6,1,2,0,0,Nigel Clough
+E1,2012-03-03,Birmingham,Derby,2,2,D,1,0,H,P Tierney,14,7,6,3,9,12,10,3,3,0,0,0,Nigel Clough
+E1,2012-03-06,Derby,Blackpool,2,1,H,0,1,A,C Boyeson,13,13,8,9,9,16,4,8,1,1,0,0,Nigel Clough
+E1,2012-03-10,Derby,Watford,1,2,A,1,2,A,S Mathieson,9,7,5,3,10,20,7,3,1,2,0,0,Nigel Clough
+E1,2012-03-13,Derby,Nott'm Forest,1,0,H,0,0,D,A D'Urso,12,9,5,2,13,17,11,3,2,4,0,1,Nigel Clough
+E1,2012-03-17,Doncaster,Derby,1,2,A,0,1,A,D Coote,8,8,4,8,12,13,1,11,1,0,0,0,Nigel Clough
+E1,2012-03-20,Brighton,Derby,2,0,H,1,0,H,D Sheldrake,9,11,8,4,9,18,8,7,1,3,0,0,Nigel Clough
+E1,2012-03-24,Derby,Crystal Palace,3,2,H,2,0,H,M Russell,10,9,4,6,8,7,4,3,1,1,0,0,Nigel Clough
+E1,2012-03-31,Bristol City,Derby,1,1,D,0,1,A,G Ward,7,10,3,4,12,12,3,4,1,1,0,0,Nigel Clough
+E1,2012-04-07,Derby,Ipswich,0,0,D,0,0,D,M Haywood,10,16,4,8,9,6,14,8,1,0,0,0,Nigel Clough
+E1,2012-04-09,Leeds,Derby,0,2,A,0,1,A,O Langford,10,16,6,8,12,16,1,9,3,1,1,0,Nigel Clough
+E1,2012-04-14,Derby,Middlesbrough,0,1,A,0,0,D,C Pawson,16,22,8,9,14,11,5,6,1,1,0,0,Nigel Clough
+E1,2012-04-17,Cardiff,Derby,2,0,H,1,0,H,L Probert,9,14,6,9,13,5,6,11,1,1,0,0,Nigel Clough
+E1,2012-04-21,Portsmouth,Derby,1,2,A,0,1,A,M Naylor,16,10,9,6,16,16,3,7,3,1,0,0,Nigel Clough
+E1,2012-04-28,Derby,Peterboro,1,1,D,1,0,H,R East,23,17,13,9,12,9,10,5,0,1,0,0,Nigel Clough

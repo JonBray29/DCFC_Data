@@ -1,47 +1,47 @@
-Div,Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,Referee,HS,AS,HST,AST,HF,AF,HC,AC,HY,AY,HR,AR
-E1,08/08/2009,Derby,Peterboro,2,1,H,1,0,H,P Taylor,12,7,6,2,6,15,10,5,1,3,0,0
-E1,15/08/2009,Scunthorpe,Derby,3,2,H,2,1,H,G Horwood,15,5,12,2,10,9,4,5,0,0,0,0
-E1,18/08/2009,Blackpool,Derby,0,0,D,0,0,D,E Ilderton,10,12,6,1,11,8,8,7,0,0,0,0
-E1,22/08/2009,Derby,Plymouth,2,1,H,1,1,D,C Pawson,13,8,9,2,6,23,13,5,1,2,0,0
-E1,29/08/2009,Nott'm Forest,Derby,3,2,H,3,0,H,M Atkinson,13,4,9,3,17,19,6,3,2,4,0,0
-E1,12/09/2009,Derby,Sheffield United,0,1,A,0,0,D,A D'Urso,8,14,6,4,13,16,4,5,2,4,0,0
-E1,15/09/2009,Derby,Barnsley,2,3,A,1,1,D,N Miller,13,7,5,3,10,12,11,3,1,1,0,0
-E1,19/09/2009,Crystal Palace,Derby,1,0,H,0,0,D,M Oliver,12,7,6,3,12,11,4,6,2,2,0,0
-E1,26/09/2009,Derby,Bristol City,1,0,H,0,0,D,M Russell,20,5,8,1,12,8,7,4,2,3,0,1
-E1,29/09/2009,Cardiff,Derby,6,1,H,2,0,H,S Hooper,11,8,10,6,9,8,1,4,0,1,0,0
-E1,03/10/2009,Derby,Sheffield Weds,3,0,H,1,0,H,C Foy,14,9,7,3,11,14,2,7,1,1,0,0
-E1,17/10/2009,Leicester,Derby,0,0,D,0,0,D,M Dean,14,5,3,3,10,13,3,3,2,0,0,0
-E1,20/10/2009,Middlesbrough,Derby,2,0,H,1,0,H,J Moss,9,8,5,3,18,12,5,3,3,2,0,0
-E1,24/10/2009,Derby,QPR,2,4,A,2,1,H,M Haywood,10,14,6,9,11,12,3,6,2,0,0,0
-E1,31/10/2009,Ipswich,Derby,1,0,H,0,0,D,A Taylor,16,13,7,5,11,8,5,7,1,2,0,0
-E1,06/11/2009,Derby,Coventry,2,1,H,0,1,A,P Crossley,13,5,6,3,9,15,11,2,1,4,0,1
-E1,20/11/2009,Swansea,Derby,1,0,H,0,0,D,R East,14,1,8,1,9,19,15,2,0,4,0,0
-E1,28/11/2009,Derby,Reading,2,1,H,0,0,D,A Haines,8,9,5,4,15,16,7,4,2,3,0,1
-E1,05/12/2009,Derby,West Brom,2,2,D,1,0,H,D Deadman,10,11,7,7,16,8,4,5,2,1,0,0
-E1,08/12/2009,Preston,Derby,0,0,D,0,0,D,P Gibbs,21,13,8,6,15,13,7,4,3,3,0,0
-E1,12/12/2009,Watford,Derby,0,1,A,0,0,D,K Stroud,8,6,2,4,18,16,2,2,5,3,0,0
-E1,19/12/2009,Derby,Doncaster,0,2,A,0,1,A,T Kettle,9,8,4,6,12,13,9,4,1,1,0,0
-E1,26/12/2009,Derby,Blackpool,0,2,A,0,1,A,S Mathieson,8,13,3,5,9,9,5,1,1,0,0,0
-E1,28/12/2009,Newcastle,Derby,0,0,D,0,0,D,K Wright,13,5,7,2,15,21,12,1,1,3,0,1
-E1,09/01/2010,Derby,Scunthorpe,1,4,A,0,2,A,K Woolmer,18,18,11,13,12,11,6,4,0,1,0,0
-E1,16/01/2010,Peterboro,Derby,0,3,A,0,1,A,N Miller,10,14,6,8,7,9,5,7,1,1,2,0
-E1,26/01/2010,Plymouth,Derby,1,0,H,0,0,D,A Hall,11,7,4,1,14,11,9,8,2,6,0,0
-E1,30/01/2010,Derby,Nott'm Forest,1,0,H,0,0,D,N Swarbrick,8,7,5,3,15,16,16,6,5,3,0,0
-E1,06/02/2010,Sheffield United,Derby,1,1,D,0,1,A,G Salisbury,14,11,8,5,14,7,9,4,2,0,0,0
-E1,09/02/2010,Derby,Newcastle,3,0,H,1,0,H,A Taylor,7,8,4,5,14,10,2,6,4,1,0,0
-E1,16/02/2010,Derby,Preston,5,3,H,1,1,D,C Pawson,28,13,18,7,7,13,14,5,1,1,0,0
-E1,20/02/2010,Derby,Swansea,0,1,A,0,0,D,S Tanner,12,5,6,3,15,14,4,3,2,3,1,1
-E1,27/02/2010,West Brom,Derby,3,1,H,0,0,D,P Crossley,10,5,6,1,9,8,5,5,2,2,0,0
-E1,06/03/2010,Derby,Watford,2,0,H,1,0,H,G Horwood,9,6,5,3,16,15,6,3,2,1,0,0
-E1,10/03/2010,Reading,Derby,4,1,H,2,1,H,K Wright,17,2,9,2,7,9,7,0,1,0,0,1
-E1,13/03/2010,Doncaster,Derby,2,1,H,1,0,H,S Hooper,8,5,4,3,11,8,3,3,1,1,0,0
-E1,16/03/2010,Derby,Middlesbrough,2,2,D,0,1,A,D Phillips,17,15,10,10,10,16,9,3,0,2,0,1
-E1,20/03/2010,Sheffield Weds,Derby,0,0,D,0,0,D,J Linington,4,7,3,5,12,13,5,8,0,2,0,0
-E1,23/03/2010,QPR,Derby,1,1,D,1,0,H,M Russell,9,3,6,3,10,10,8,5,1,1,0,0
-E1,27/03/2010,Derby,Leicester,1,0,H,1,0,H,C Webster,8,8,1,4,12,7,4,6,1,0,0,0
-E1,03/04/2010,Coventry,Derby,0,1,A,0,1,A,A D'Urso,15,9,10,3,8,11,5,7,2,1,0,0
-E1,05/04/2010,Derby,Ipswich,1,3,A,0,1,A,J Moss,16,12,12,9,8,11,7,3,1,3,1,0
-E1,10/04/2010,Barnsley,Derby,0,0,D,0,0,D,P Taylor,9,9,2,5,13,4,1,7,1,1,0,0
-E1,17/04/2010,Derby,Crystal Palace,1,1,D,1,0,H,T Bates,11,13,4,7,5,16,13,3,1,2,0,0
-E1,24/04/2010,Bristol City,Derby,2,1,H,1,0,H,C Pawson,11,12,6,8,10,8,4,4,1,1,0,0
-E1,02/05/2010,Derby,Cardiff,2,0,H,0,0,D,C Webster,11,7,5,4,12,12,9,6,4,3,0,0
+Div,Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,Referee,HS,AS,HST,AST,HF,AF,HC,AC,HY,AY,HR,AR,Manager
+E1,2009-08-08,Derby,Peterboro,2,1,H,1,0,H,P Taylor,12,7,6,2,6,15,10,5,1,3,0,0,Nigel Clough
+E1,2009-08-15,Scunthorpe,Derby,3,2,H,2,1,H,G Horwood,15,5,12,2,10,9,4,5,0,0,0,0,Nigel Clough
+E1,2009-08-18,Blackpool,Derby,0,0,D,0,0,D,E Ilderton,10,12,6,1,11,8,8,7,0,0,0,0,Nigel Clough
+E1,2009-08-22,Derby,Plymouth,2,1,H,1,1,D,C Pawson,13,8,9,2,6,23,13,5,1,2,0,0,Nigel Clough
+E1,2009-08-29,Nott'm Forest,Derby,3,2,H,3,0,H,M Atkinson,13,4,9,3,17,19,6,3,2,4,0,0,Nigel Clough
+E1,2009-09-12,Derby,Sheffield United,0,1,A,0,0,D,A D'Urso,8,14,6,4,13,16,4,5,2,4,0,0,Nigel Clough
+E1,2009-09-15,Derby,Barnsley,2,3,A,1,1,D,N Miller,13,7,5,3,10,12,11,3,1,1,0,0,Nigel Clough
+E1,2009-09-19,Crystal Palace,Derby,1,0,H,0,0,D,M Oliver,12,7,6,3,12,11,4,6,2,2,0,0,Nigel Clough
+E1,2009-09-26,Derby,Bristol City,1,0,H,0,0,D,M Russell,20,5,8,1,12,8,7,4,2,3,0,1,Nigel Clough
+E1,2009-09-29,Cardiff,Derby,6,1,H,2,0,H,S Hooper,11,8,10,6,9,8,1,4,0,1,0,0,Nigel Clough
+E1,2009-10-03,Derby,Sheffield Weds,3,0,H,1,0,H,C Foy,14,9,7,3,11,14,2,7,1,1,0,0,Nigel Clough
+E1,2009-10-17,Leicester,Derby,0,0,D,0,0,D,M Dean,14,5,3,3,10,13,3,3,2,0,0,0,Nigel Clough
+E1,2009-10-20,Middlesbrough,Derby,2,0,H,1,0,H,J Moss,9,8,5,3,18,12,5,3,3,2,0,0,Nigel Clough
+E1,2009-10-24,Derby,QPR,2,4,A,2,1,H,M Haywood,10,14,6,9,11,12,3,6,2,0,0,0,Nigel Clough
+E1,2009-10-31,Ipswich,Derby,1,0,H,0,0,D,A Taylor,16,13,7,5,11,8,5,7,1,2,0,0,Nigel Clough
+E1,2009-11-06,Derby,Coventry,2,1,H,0,1,A,P Crossley,13,5,6,3,9,15,11,2,1,4,0,1,Nigel Clough
+E1,2009-11-20,Swansea,Derby,1,0,H,0,0,D,R East,14,1,8,1,9,19,15,2,0,4,0,0,Nigel Clough
+E1,2009-11-28,Derby,Reading,2,1,H,0,0,D,A Haines,8,9,5,4,15,16,7,4,2,3,0,1,Nigel Clough
+E1,2009-12-05,Derby,West Brom,2,2,D,1,0,H,D Deadman,10,11,7,7,16,8,4,5,2,1,0,0,Nigel Clough
+E1,2009-12-08,Preston,Derby,0,0,D,0,0,D,P Gibbs,21,13,8,6,15,13,7,4,3,3,0,0,Nigel Clough
+E1,2009-12-12,Watford,Derby,0,1,A,0,0,D,K Stroud,8,6,2,4,18,16,2,2,5,3,0,0,Nigel Clough
+E1,2009-12-19,Derby,Doncaster,0,2,A,0,1,A,T Kettle,9,8,4,6,12,13,9,4,1,1,0,0,Nigel Clough
+E1,2009-12-26,Derby,Blackpool,0,2,A,0,1,A,S Mathieson,8,13,3,5,9,9,5,1,1,0,0,0,Nigel Clough
+E1,2009-12-28,Newcastle,Derby,0,0,D,0,0,D,K Wright,13,5,7,2,15,21,12,1,1,3,0,1,Nigel Clough
+E1,2010-01-09,Derby,Scunthorpe,1,4,A,0,2,A,K Woolmer,18,18,11,13,12,11,6,4,0,1,0,0,Nigel Clough
+E1,2010-01-16,Peterboro,Derby,0,3,A,0,1,A,N Miller,10,14,6,8,7,9,5,7,1,1,2,0,Nigel Clough
+E1,2010-01-26,Plymouth,Derby,1,0,H,0,0,D,A Hall,11,7,4,1,14,11,9,8,2,6,0,0,Nigel Clough
+E1,2010-01-30,Derby,Nott'm Forest,1,0,H,0,0,D,N Swarbrick,8,7,5,3,15,16,16,6,5,3,0,0,Nigel Clough
+E1,2010-02-06,Sheffield United,Derby,1,1,D,0,1,A,G Salisbury,14,11,8,5,14,7,9,4,2,0,0,0,Nigel Clough
+E1,2010-02-09,Derby,Newcastle,3,0,H,1,0,H,A Taylor,7,8,4,5,14,10,2,6,4,1,0,0,Nigel Clough
+E1,2010-02-16,Derby,Preston,5,3,H,1,1,D,C Pawson,28,13,18,7,7,13,14,5,1,1,0,0,Nigel Clough
+E1,2010-02-20,Derby,Swansea,0,1,A,0,0,D,S Tanner,12,5,6,3,15,14,4,3,2,3,1,1,Nigel Clough
+E1,2010-02-27,West Brom,Derby,3,1,H,0,0,D,P Crossley,10,5,6,1,9,8,5,5,2,2,0,0,Nigel Clough
+E1,2010-03-06,Derby,Watford,2,0,H,1,0,H,G Horwood,9,6,5,3,16,15,6,3,2,1,0,0,Nigel Clough
+E1,2010-03-10,Reading,Derby,4,1,H,2,1,H,K Wright,17,2,9,2,7,9,7,0,1,0,0,1,Nigel Clough
+E1,2010-03-13,Doncaster,Derby,2,1,H,1,0,H,S Hooper,8,5,4,3,11,8,3,3,1,1,0,0,Nigel Clough
+E1,2010-03-16,Derby,Middlesbrough,2,2,D,0,1,A,D Phillips,17,15,10,10,10,16,9,3,0,2,0,1,Nigel Clough
+E1,2010-03-20,Sheffield Weds,Derby,0,0,D,0,0,D,J Linington,4,7,3,5,12,13,5,8,0,2,0,0,Nigel Clough
+E1,2010-03-23,QPR,Derby,1,1,D,1,0,H,M Russell,9,3,6,3,10,10,8,5,1,1,0,0,Nigel Clough
+E1,2010-03-27,Derby,Leicester,1,0,H,1,0,H,C Webster,8,8,1,4,12,7,4,6,1,0,0,0,Nigel Clough
+E1,2010-04-03,Coventry,Derby,0,1,A,0,1,A,A D'Urso,15,9,10,3,8,11,5,7,2,1,0,0,Nigel Clough
+E1,2010-04-05,Derby,Ipswich,1,3,A,0,1,A,J Moss,16,12,12,9,8,11,7,3,1,3,1,0,Nigel Clough
+E1,2010-04-10,Barnsley,Derby,0,0,D,0,0,D,P Taylor,9,9,2,5,13,4,1,7,1,1,0,0,Nigel Clough
+E1,2010-04-17,Derby,Crystal Palace,1,1,D,1,0,H,T Bates,11,13,4,7,5,16,13,3,1,2,0,0,Nigel Clough
+E1,2010-04-24,Bristol City,Derby,2,1,H,1,0,H,C Pawson,11,12,6,8,10,8,4,4,1,1,0,0,Nigel Clough
+E1,2010-05-02,Derby,Cardiff,2,0,H,0,0,D,C Webster,11,7,5,4,12,12,9,6,4,3,0,0,Nigel Clough

@@ -1,18 +1,20 @@
 const csv = require('csvtojson');
-const converter = require('json-2-csv')
+const converter = require('json-2-csv');
+const moment = require('moment');
 const fs = require('fs');
 
-propsToDelete = ['B365H','B365D','B365A','BWH','BWD','BWA','GBH','GBD','GBA','IWH','IWD','IWA','LBH','LBD','LBA','SBH','SBD','SBA','WHH','WHD','WHA','SJH','SJD','SJA','VCH','VCD','VCA','BSH','BSD','BSA','Bb1X2','BbMxH','BbAvH','BbMxD','BbAvD','BbMxA','BbAvA','BbOU','BbMx>2','BbAv>2','BbMx<2','BbAv<2','BbAH','BbAHh','BbMxAHH','BbAvAHH','BbMxAHA','BbAvAHA'];
-managers = [{ name: "Paul Jewell", start: "28/11/07", end: "29/12/08"}, { name: "Chris Hutchings", start: "29/12/08", end: "06/01/09"}, { name: "David Lowe", start: "06/01/2009", end: "08/01/09"}, 
-            { name: "Nigel Clough", start: "08/01/09", end: "28/09/13"}, { name: "Darren Wassall", start: "29/09/13", end: "01/10/13"}, { name: "Steve McClaren", start: "02/10/13", end: "25/05/15"},
-            { name: "Paul Clement", start: "01/06/15", end: "07/02/16"}, { name: "Darren Wassall", start: "08/02/16", end: "26/05/16"}, { name: "Nigel Pearson", start: "27/05/16", end: "26/09/16"},
-            { name: "Chris Powell", start: "27/09/16", end: "11/10/16"}, { name: "Steve McClaren", start: "12/10/16", end: "12/03/17"}, { name: "Gary Rowett", start: "14/03/17", end: "30/06/18"},
-            { name: "Frank Lampard", start: "01/07/18", end: "03/07/19"}, { name: "Phillip Cocu", start: "05/07/19", end: "14/11/20"}, { name: "Liam Rosenior", start: "15/11/20", end: "26/11/20"},
-            { name: "Wayne Rooney", start: "26/11/20", end: ""}];
+propsToDelete = ['B365H','B365D','B365A','BSH','BSD','BSA','BWH','BWD','BWA','GBH','GBD','GBA','IWH','IWD','IWA','LBH','LBD','LBA','PSH','PH','PSD','PD','PSA','PA','SOH','SOD','SOA','SBH','SBD','SBA','SJH','SJD','SJA','SYH','SYD','SYA','VCH','VCD','VCA','WHH','WHD','WHA',
+                'MaxH','MaxD','MaxA','AvgH','AvgD','AvgA','B365>2','B365<2','P>2','P<2','Max>2','Max<2','Avg>2','Avg<2','AHh','B365AHH','B365AHA','PAHH','PAHA','MaxAHH','MaxAHA','AvgAHH','AvgAHA','B365CH','B365CD','B365CA','BWCH','BWCD','BWCA','IWCH','IWCD','IWCA','PSCH',
+                'PSCD','PSCA','WHCH','WHCD','WHCA','VCCH','VCCD','VCCA','MaxCH','MaxCD','MaxCA','AvgCH','AvgCD','AvgCA','B365C>2','B365C<2','PC>2','PC<2','MaxC>2','MaxC<2','AvgC>2','AvgC<2','AHCh','B365CAHH','B365CAHA','PCAHH','PCAHA','MaxCAHH','MaxCAHA','AvgCAHH','AvgCAHA',
+                'Bb1X2','BbMxH','BbAvH','BbMxD','BbAvD','BbMxA','BbAvA','BbOU','BbMx>2','BbAv>2','BbMx<2','BbAv<2','BbAH','BbAHh','BbMxAHH','BbAvAHH','BbMxAHA','BbAvAHA'];
 
 getData();
 
 async function getData(){
+
+    const managers = await csv().fromFile('../Derby managers.csv');
+    managers[managers.length - 1].end = Date.now();
+
     for(let i = 8; i < 21; i++){
         let csvFilePath = '../Existing Data/' + i + '-' + (i + 1) + '.csv';
         const jsonArray = await csv().fromFile(csvFilePath);
@@ -24,7 +26,16 @@ async function getData(){
                     delete game[property]
                 });
 
+                let day = game.Date.substring(0, 2);
+                let month = game.Date.substring(3, 5);
+                let year = game.Date.substring(6);
+                game.Date = year + '-' + month + '-' + day;
 
+                managers.forEach(function(manager){
+                    if(moment(game.Date) >= moment(manager.start) && moment(game.Date) <= moment(manager.end)){
+                        game.Manager = manager.name;
+                    }
+                });
 
                 derbyArray.push(game);
             }
