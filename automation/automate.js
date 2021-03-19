@@ -7,7 +7,7 @@ getData();
 
 async function getData(){
     for(let i = 8; i < 21; i++){
-        let csvFilePath = './Existing Data/' + i + '-' + (i + 1) + '.csv';
+        let csvFilePath = '../Existing Data/' + i + '-' + (i + 1) + '.csv';
         const jsonArray = await csv().fromFile(csvFilePath);
         let derbyArray = [];
 
@@ -26,14 +26,14 @@ async function getData(){
 
             if(i < 10){
                 if((i + 1) < 10){
-                    fs.writeFileSync('./Derbys data/0' + i + '-0' + (i + 1) + '.csv', csv);
+                    fs.writeFileSync('../Derbys data/0' + i + '-0' + (i + 1) + '.csv', csv);
                 }
                 else{
-                    fs.writeFileSync('./Derbys data/0' + i + '-' + (i + 1) + '.csv', csv);
+                    fs.writeFileSync('../Derbys data/0' + i + '-' + (i + 1) + '.csv', csv);
                 }
             }
             else{
-                fs.writeFileSync('./Derbys data/' + i + '-' + (i + 1) + '.csv', csv);
+                fs.writeFileSync('../Derbys data/' + i + '-' + (i + 1) + '.csv', csv);
             }
         });
     }
